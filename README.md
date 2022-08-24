@@ -1,4 +1,4 @@
 # pok-dex
-Pokedex com HTML, CSS e JavaScript
+Pokédex com HTML, CSS e JavaScript
 
 
